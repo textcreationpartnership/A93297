@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Fairfaxes entring Bridgewater by storming; on Munday last. In which town he took from the enemy; [brace] 4. colonels. 50. captaines, lieutenants, and other officers. 500. prisoners, whereof some papists. 60. horse. 1. Great piece of ordnance, in the royall fort. The royall fort also taken. Mr. Harvey's house taken. And a list of all the particulars, and what losse was on both sides; and the manner of the fight: and in what posture the rest remains in those holds where they lye. Also, the termes tendred by Sir Hugh Cholmley, for the surrender of Scarborough castle. Commanded to be printed, and published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93297</idno><idno type="EEBO-CITATION">99860974</idno>
+  <idno type="VID">113101</idno>
+  <idno type="EEBO-PROQUEST">2240884130</idno>
+  
+            <idno type="STC">Wing S3895</idno>
+            <idno type="STC">Thomason E293_27</idno>
+            <idno type="STC">ESTC R200169</idno>
+            <idno type="PROQUEST">99860974</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860974e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113101)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E293[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Fairfaxes entring Bridgewater by storming; on Munday last. In which town he took from the enemy; [brace] 4. colonels. 50. captaines, lieutenants, and other officers. 500. prisoners, whereof some papists. 60. horse. 1. Great piece of ordnance, in the royall fort. The royall fort also taken. Mr. Harvey's house taken. And a list of all the particulars, and what losse was on both sides; and the manner of the fight: and in what posture the rest remains in those holds where they lye. Also, the termes tendred by Sir Hugh Cholmley, for the surrender of Scarborough castle. Commanded to be printed, and published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop, and I. Coe.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy "July 25th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Bridgwater (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113101:1"/>
+            <p>Sir Thomas Fairfaxes ENTRING BRIDGEWATER By Storming; on Munday last.</p>
+            <p>In which Town he took from the Enemy;</p>
+            <list>
+               <item>4. <hi>Collonels.</hi>
+               </item>
+               <item>50. <hi>Captaines, Lieutenants, and other Officers.</hi>
+               </item>
+               <item>500. <hi>prisoners, whereof some Papists.</hi>
+               </item>
+               <item>60. <hi>Horse.</hi>
+               </item>
+               <item>1. <hi>Great piece of Ordnance, in the Royall Fort.</hi>
+               </item>
+               <item>
+                  <hi>The Royall Fort also taken.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Harveys <hi>House taken.</hi>
+               </item>
+            </list>
+            <p>And a List of all the particulars, and what losse was on both sides; And the manner of the Fight: And in what posture the rest remain in those Holds where they lye.</p>
+            <p>ALSO, The Termes tendred by Sir <hi>Hugh Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ley,</hi> for the surrender of <hi>Scarborough</hi> Castle.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Commanded to be printed, and published according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London, Printed by <hi>B. Alsop,</hi> and <hi>I. Coe.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113101:2"/>
+            <pb n="1" facs="tcp:113101:2"/>
+            <head>The storming of BRIDGEWATER on Munday last, by Sir <hi>Thomas Fairfax</hi> his Forces, at which time he entred into the Towne: VVith a List of the particulars of what was taken.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg>N the first place I must not forget to give the glory to God, who hath done things by us so far beyond our ex<g ref="char:EOLhyphen"/>pectation; for it is by his power that we have done it. And yet I can assure you that it is admirable to consi<g ref="char:EOLhyphen"/>der the constant paines of the Generall, Lieutenant-Generall, and the rest, who lose no opportunity. The Generall is full of action, never idle, but still upon one designe o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> other; it is to be wondred how he can be a<g ref="char:EOLhyphen"/>ble to hold out; to watch, act, and take so little rest; it is God that strengthens him, to him be the glory.</p>
+                  <p>It hath pleased God still to give us more additions of his favour, in bringing us into <hi>Bridgewater</hi> with so little▪ losse.</p>
+                  <pb n="2" facs="tcp:113101:3"/>
+                  <p>On saturday the 20. of Iuly 1645. The Generall ha<g ref="char:EOLhyphen"/>ving before viewed all the workes, and placed all his batteries, yet not falling on at the time first appointed, yet to the end that he might lose no opportunity, he sent out some Scouts so neere to <hi>Bridgewater</hi> as they durst venture, and when the Generall was fully satisfied of the condition of the To<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne, and had made use of the Countrey people, for he tryes all wayes for the doing of all things wisely; he sate in Councell the next day, being the Lords day.</p>
+                  <p>On the Lords day Iuly the 21. it being concluded on to fall on <hi>Bridgewater</hi> the next morning, so early as they could see, fell to action, all preparations were made for the storming of the Garrison accordingly.</p>
+                  <p>That night a party of foot were drawn out for the de<g ref="char:EOLhyphen"/>signs comanded by Lieutenant Colonel <hi>He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>son,</hi> Colonel <hi>Pickerings</hi> Lieutenant Colonell, and Sergeant Major <hi>Dove,</hi> Colonell <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ainsboroughs</hi> Sergeant Major, and it was concluded, that Major Generall <hi>Massey</hi> should face them on the other side of the River, whilest they stormed the north side of the Towne.</p>
+                  <p>On the Lords day early in the morning, our Foot a<g ref="char:EOLhyphen"/>bout two of the clocke marched up, and indeed they marched as freely and as cheerfully, and with so much joy, as being much taken with the worke they went a<g ref="char:EOLhyphen"/>bout; and whilest Major Generall <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ssey</hi> faced the one side, Lieutenant Colonell <hi>Hewson</hi> fell on the other, and stormed them with such violence, that though they stood to it a while, yet our Foo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fighting like Lions, forced them back, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y valiant activity brake into the Towne, killed many of the enemies, and tooke divers of them prisoners, as you may see by the List. Master <hi>Harvey</hi> who is Lord both of the Towne, of the great
+<pb n="3" facs="tcp:113101:3"/> House, and of the Castle, went to secure himselfe to the other side of the Towne and Colone<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l <hi>Windham,</hi> the Town being all in a terrible alarme.</p>
+                  <p>Now to the end that you may know the gallantry of this service, which I cannot forbeare to tell you, our men charged against nigh 1000. of the enemies that kept this part of the Towne, and the workes v<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> strong, yet that did not discourage us, knowing the Lord to be the God of Hosts, and not doubting but that hee who hath begun, will perfect the work he hath to do by us.</p>
+                  <p>It seemes the Souldiers in the Town would have Mr. <hi>Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>veys</hi> house pulled downe, fearing lest in case they should lose that side of the Towne, they might be pre<g ref="char:EOLhyphen"/>judiced by it, for it commands the Town, and the Mar<g ref="char:EOLhyphen"/>ket-place, but Mr. <hi>Harvey</hi> being there himselfe, and bearing so great a sway amongst them, hee procured leave that it might stand; the souldiers then propoun<g ref="char:EOLhyphen"/>ded that some sconces might be made for the securing of the Castle and the ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ket-place, in case they should come to lose that part of the Town.</p>
+                  <p>This Town of <hi>Bridgew<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ter</hi> is divided by a River into two parts, one of which we have taken, and the other the enemy still keepes, but we hope by to morrow night at the farthest to gaine that part of the Towne they are in, into which they had drawn most of their carriages, and their Ordnan<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, save only one Peece which was too big for them to draw off, being their great Ordnance for their Fort Royall, which we have taken, with all this part of the Towne on this side the River, and divers of Colonell <hi>Stowens</hi> horses, and 500. foot, and are yet pur<g ref="char:EOLhyphen"/>suing the victory, the enemy being terribly astonished at our approach into the Town, there being in the Castle many very considerable men, as Knights, &amp;c.</p>
+                  <pb n="4" facs="tcp:113101:4"/>
+                  <p>In the meane time the rest of our Forces are not idle, but move in all places according to their severall Quarters, to oppose the enemy every where; one part hinders <hi>Gorings</hi> recruits, and attend his motions so neer as they can, keeping neere the Body, which is not to be divided; another part to attend the Northerne side of the West towards the Sea-coasts; Col: <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>assey</hi> and the Club-men <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> that side towards Bridgewater. All are full of action, and we heare daily skirmishes with them in one place or other.</p>
+                  <p>I cannot tell you what the enemy will doe with us in Bridgewater, whether capitulate presently, or betake them to the Castle, and stand upon some terms; but we hope by to morrow next to determine all.</p>
+                  <p>It may be they will stand out to the uttermost, being that there are so many considerable Papists amongst them; but we beleeve they will be overborne by the rest, who one-would think are too much engaged in the Towne, to please them so much.</p>
+                  <p>All our men that were in this action behaved them<g ref="char:EOLhyphen"/>selves exceeding▪ wel in the storming and taking of this place; the Works being so good, the Trenches ten foot deep in water, the Town well mann'd, and no want of Ammunition. But truly God hath struck a terrour into their hearts; and which is wonderfull, we have lost so few men in this service, as is to be admired; I think ve<g ref="char:EOLhyphen"/>rily we have not 100 wounded, and not above a matter of 6 men missing.</p>
+                  <p>The General, and the rest of the Councel of War do order things so discreetly, both for the taking▪ all ad<g ref="char:EOLhyphen"/>vantages against the enemy, as also for the safety of his owne souldiers, as is to be admired. Never was so much done, and with so little losse.</p>
+                  <pb n="5" facs="tcp:113101:4"/>
+                  <p>The intent is when the 6000 foot, and 1400 horse come to us for the recrute of our Army, to besiege the chiefe Garrisons with one part, and the Club-men are willing to assist us in it; and the other part to pursue the enemy in the field, and we hope to give a good account of more places besides <hi>Bridgwater.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Dated, <date>Iuly 21. 1645.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>Here followeth a Lyst of what was taken at</hi> Bridgwater, <hi>on Munday the 21 of</hi> Iuly, 1645. <hi>by Lievtenant Colo<g ref="char:EOLhyphen"/>nell</hi> Hewson, <hi>and Major</hi> Dove.</head>
+                  <list>
+                     <item>4 Colonells, Lievtenant Colonells, and Serjeant Majors.</item>
+                     <item>50 Captaines, <gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>tenants, and other officers.</item>
+                     <item>500 Prisoners.</item>
+                     <item>60 and odde horse. Many slaine.</item>
+                     <item>1 Great peece of Ordnance.</item>
+                  </list>
+                  <p>The great Fort-Royall on the North side of the Town▪</p>
+                  <p>Mr <hi>Harvies</hi> his house a Lawyer, that is Lord of the Town, and Castle of <hi>Bridgwater.</hi>
+                  </p>
+                  <p>600 A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mes.</p>
+                  <p>All that part of the Town▪ which is on the North side, which is about <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Town▪ there being a River between that part of the Town and the other.</p>
+                  <p>The enemy had at that time as followeth.</p>
+                  <list>
+                     <item>The Castle, but a very weak one.</item>
+                     <item>The Market place which M. <hi>Harvies</hi> house commands, our peeces are planting there to play upon them.</item>
+                     <item>And they have all that side of the town, and the works belonging thereto. And all the Ordnance, save onely the peece we took in the great Fort, and <hi>Gorings</hi> baggage is with them.</item>
+                  </list>
+                  <p>We lost in the fight but 6 men. We doubt not but the next day (which was Tuesday last) that Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax</hi> had all the Town.</p>
+                  <pb n="6" facs="tcp:113101:5"/>
+                  <p>From the North there came Letters which certifie▪ that Sir <hi>Hugh Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lml<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ath offered Articles, whereup<g ref="char:EOLhyphen"/>on he is willing to surrender, his Articles are to this effect:</p>
+                  <list>
+                     <item>I. <hi>That Sir</hi> Hugh Cholmley <hi>may have liberty himself to passe safely into Holland.</hi>
+                     </item>
+                     <item>II. <hi>That his Lady may have liberty to sell and dispose of his estate freely for him, and that he may be free from sequestration.</hi>
+                     </item>
+                     <item>III. <hi>That the Officers and Souldiers in the Castle may march away wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h their Armes.</hi>
+                     </item>
+                     <item>IV. <hi>These and some other Propositions being granted, hee offers to surrender, but on further <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>pitulation no doubt Sir</hi> Hugh Cholmley <hi>will yeeld to other termes.</hi>
+                     </item>
+                  </list>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
